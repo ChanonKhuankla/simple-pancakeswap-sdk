@@ -14,7 +14,7 @@ export class ContractContext {
   /**
    * The pancakeswap pair address
    */
-  public static pairAddress = "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73";
+  public static pairAddress = "0xB7926C0430Afb07AA7DEfDE6DA862aE0Bde767bc";
 
   /**
    * PancakeSwap v2 router
